@@ -1,0 +1,715 @@
+player_id,name,team_id,team_name,sub_position,foot,height_in_cm
+1,Folarin Balogun,1,Arsenal,Centre-Forward,right,175
+2,Cédric Alves Soares,1,Arsenal,Right-Back,right,171
+3,Mohamed Elneny,1,Arsenal,Defensive Midfield,right,179
+4,Fábio Ferreira Vieira,1,Arsenal,Attacking Midfield,left,170
+5,Gabriel dos Santos Magalhães,1,Arsenal,Centre-Back,left,190
+6,Kai Havertz,1,Arsenal,Attacking Midfield,left,193
+8,Gabriel Fernando de Jesus,1,Arsenal,Centre-Forward,right,175
+9,Jorge Luiz Frello Filho,1,Arsenal,Defensive Midfield,right,178
+10,Jakub Kiwior,1,Arsenal,Centre-Back,left,189
+11,Marcus Oliveira Alencar,1,Arsenal,,,
+12,Gabriel Martinelli Silva,1,Arsenal,Left Winger,right,178
+13,Eddie Nketiah,1,Arsenal,Centre-Forward,right,175
+14,Martin Ødegaard,1,Arsenal,Attacking Midfield,left,178
+15,Thomas Partey,1,Arsenal,Defensive Midfield,right,185
+16,Nicolas Pépé,1,Arsenal,,,
+17,Aaron Ramsdale,1,Arsenal,Goalkeeper,right,190
+18,Rúnar Alex Rúnarsson,1,Arsenal,,,
+19,Bukayo Saka,1,Arsenal,Right Winger,left,178
+20,William Saliba,1,Arsenal,Centre-Back,right,192
+22,Emile Smith Rowe,1,Arsenal,Attacking Midfield,right,182
+24,Kieran Tierney,1,Arsenal,,,
+25,Takehiro Tomiyasu,1,Arsenal,Right-Back,right,188
+26,Leandro Trossard,1,Arsenal,Left Winger,right,172
+29,Benjamin White,1,Arsenal,Right-Back,right,186
+30,Granit Xhaka,1,Arsenal,,,
+31,Oleksandr Zinchenko,1,Arsenal,Left-Back,left,175
+113,David Raya Martin,1,Arsenal,Goalkeeper,right,183
+540,Declan Rice,1,Arsenal,Defensive Midfield,right,188
+578,Reiss Nelson,1,Arsenal,Right Winger,right,175
+585,Jurriën Timber,1,Arsenal,Centre-Back,right,179
+646,Karl Hein,1,Arsenal,Goalkeeper,right,193
+32,Alexandre Moreno Lopera,2,Villa,Left-Back,left,179
+34,Leon Bailey,2,Villa,Left Winger,left,178
+35,Emiliano Buendía Stati,2,Villa,Right Winger,right,172
+36,Matty Cash,2,Villa,Right-Back,right,185
+37,Calum Chambers,2,Villa,Centre-Back,right,182
+38,Philippe Coutinho Correia,2,Villa,,,
+39,Keinan Davis,2,Villa,,,
+40,Leander Dendoncker,2,Villa,,,
+41,Diego Carlos Santos Silva,2,Villa,Centre-Back,right,185
+42,Lucas Digne,2,Villa,Left-Back,left,178
+43,Douglas Luiz Soares de Paulo,2,Villa,Central Midfield,right,177
+44,Jhon Durán,2,Villa,Centre-Forward,left,185
+45,Kortney Hause,2,Villa,Centre-Back,left,191
+46,Tim Iroegbunam,2,Villa,Central Midfield,right,183
+47,Boubacar Kamara,2,Villa,Defensive Midfield,right,184
+48,Ezri Konsa Ngoyo,2,Villa,Centre-Back,right,183
+49,Emiliano Martínez Romero,2,Villa,Goalkeeper,right,195
+50,John McGinn,2,Villa,Central Midfield,left,178
+51,Tyrone Mings,2,Villa,Centre-Back,left,196
+53,Robin Olsen,2,Villa,Goalkeeper,right,196
+54,Jaden Philogene-Bidace,2,Villa,,,
+55,Jacob Ramsey,2,Villa,Central Midfield,right,180
+56,Morgan Sanson,2,Villa,,,
+57,Viljami Sinisalo,2,Villa,,,
+58,Youri Tielemans,2,Villa,Central Midfield,right,177
+59,Bertrand Traoré,2,Villa,,,
+60,Ollie Watkins,2,Villa,Centre-Forward,right,180
+61,Wesley Moraes Ferreira da Silva,2,Villa,,,
+584,Pau Torres,2,Villa,Centre-Back,left,192
+599,Moussa Diaby,2,Villa,Right Winger,left,171
+618,Omari Kellyman,2,Villa,,,
+670,Filip Marschall,2,Villa,,,
+672,Nicolò Zaniolo,2,Villa,Attacking Midfield,left,190
+686,Oliwier Zych,2,Villa,,,
+699,Clément Lenglet,2,Villa,Centre-Back,left,186
+62,Jaidon Anthony,3,Bournemouth,,,
+63,Philip Billing,3,Bournemouth,Central Midfield,left,193
+64,David Brooks,3,Bournemouth,,,
+65,Ryan Christie,3,Bournemouth,Attacking Midfield,left,178
+66,Lewis Cook,3,Bournemouth,Central Midfield,right,175
+67,Siriki Dembélé,3,Bournemouth,,,
+68,Ryan Fredericks,3,Bournemouth,Right-Back,right,181
+69,James Hill,3,Bournemouth,Centre-Back,right,184
+70,Lloyd Kelly,3,Bournemouth,Centre-Back,left,190
+71,Gavin Kilkenny,3,Bournemouth,,,
+72,Justin Kluivert,3,Bournemouth,Left Winger,both,172
+73,Jamal Lowe,3,Bournemouth,,,
+74,Emiliano Marcondes,3,Bournemouth,,,
+75,Chris Mepham,3,Bournemouth,Centre-Back,right,190
+76,Kieffer Moore,3,Bournemouth,,,
+77,Norberto Murara Neto,3,Bournemouth,Goalkeeper,right,190
+78,Dango Ouattara,3,Bournemouth,Right Winger,left,177
+79,Ben Pearson,3,Bournemouth,,,
+80,Darren Randolph,3,Bournemouth,Goalkeeper,right,187
+81,Joe Rothwell,3,Bournemouth,,,
+82,Antoine Semenyo,3,Bournemouth,Right Winger,right,185
+83,Marcos Senesi,3,Bournemouth,Centre-Back,left,185
+84,Adam Smith,3,Bournemouth,Right-Back,right,174
+85,Dominic Solanke,3,Bournemouth,Centre-Forward,right,186
+86,Marcus Tavernier,3,Bournemouth,Left Winger,left,178
+87,Hamed Traorè,3,Bournemouth,,,
+88,Mark Travers,3,Bournemouth,Goalkeeper,right,191
+89,Illia Zabarnyi,3,Bournemouth,Centre-Back,right,189
+595,Milos Kerkez,3,Bournemouth,Left-Back,left,180
+607,Ionuț Radu,3,Bournemouth,,,
+619,Ben Greenwood,3,Bournemouth,,,
+643,Max Aarons,3,Bournemouth,Right-Back,right,171
+644,Alex Scott,3,Bournemouth,Central Midfield,right,178
+673,Tyler Adams,3,Bournemouth,Defensive Midfield,right,175
+705,Luis Sinisterra,3,Bournemouth,Left Winger,right,172
+90,Kristoffer Ajer,4,Brentford,Centre-Back,right,198
+91,Ellery Balcombe,4,Brentford,Goalkeeper,right,190
+92,Shandon Baptiste,4,Brentford,Central Midfield,right,180
+93,Mads Bech Sørensen,4,Brentford,,,
+94,Mads Bidstrup,4,Brentford,,,
+95,Sergi Canós Tenés,4,Brentford,,,
+96,Nathan Collins,4,Brentford,Centre-Back,right,193
+97,Matthew Cox,4,Brentford,,,
+98,Mikkel Damsgaard,4,Brentford,Left Winger,right,180
+99,Josh Dasilva,4,Brentford,Central Midfield,left,184
+100,Halil Dervişoğlu,4,Brentford,,,
+101,Mark Flekken,4,Brentford,Goalkeeper,both,195
+102,Charlie Goode,4,Brentford,,,
+103,Rico Henry,4,Brentford,Left-Back,left,170
+104,Aaron Hickey,4,Brentford,Right-Back,both,185
+105,Vitaly Janelt,4,Brentford,Defensive Midfield,left,184
+106,Mathias Jensen,4,Brentford,Central Midfield,right,180
+107,Keane Lewis-Potter,4,Brentford,Left Winger,right,170
+108,Bryan Mbeumo,4,Brentford,Right Winger,left,171
+109,Ben Mee,4,Brentford,Centre-Back,left,180
+110,Christian Nørgaard,4,Brentford,Defensive Midfield,right,187
+111,Frank Onyeka,4,Brentford,Central Midfield,right,183
+112,Ethan Pinnock,4,Brentford,Centre-Back,left,194
+114,Mads Roerslev Rasmussen,4,Brentford,Right-Back,right,184
+115,Kevin Schade,4,Brentford,Right Winger,right,185
+116,Thomas Strakosha,4,Brentford,Goalkeeper,right,193
+117,Ivan Toney,4,Brentford,Centre-Forward,right,185
+118,Ryan Trevitt,4,Brentford,Central Midfield,right,
+119,Yoane Wissa,4,Brentford,Left Winger,right,176
+120,Yegor Yarmolyuk,4,Brentford,Attacking Midfield,right,180
+121,Mathias Jorgensen,4,Brentford,,,
+258,Neal Maupay,4,Brentford,Centre-Forward,right,173
+620,Michale Olakigbe,4,Brentford,,,
+684,Ethan Brierley,4,Brentford,,,
+701,Saman Ghoddos,4,Brentford,Attacking Midfield,right,175
+122,Simon Adingra,5,Brighton,Left Winger,right,175
+123,Steven Alzate,5,Brighton,,,
+124,Yasin Ayari,5,Brighton,,,
+125,Facundo Buonanotte,5,Brighton,Attacking Midfield,left,174
+127,Aaron Connolly,5,Brighton,,,
+128,Mahmoud Dahoud,5,Brighton,,,
+129,Lewis Dunk,5,Brighton,Centre-Back,right,192
+130,Julio Enciso,5,Brighton,Attacking Midfield,right,173
+131,Pervis Estupiñán,5,Brighton,Left-Back,left,175
+132,Evan Ferguson,5,Brighton,Centre-Forward,right,188
+133,Billy Gilmour,5,Brighton,Defensive Midfield,right,170
+134,Pascal Groß,5,Brighton,Central Midfield,right,181
+135,João Pedro Junqueira de Jesus,5,Brighton,Centre-Forward,right,182
+136,Michał Karbownik,5,Brighton,,,
+137,Kacper Kozłowski,5,Brighton,,,
+138,Adam Lallana,5,Brighton,Attacking Midfield,both,172
+139,Tariq Lamptey,5,Brighton,Right-Back,right,163
+140,Solly March,5,Brighton,Right Winger,left,180
+141,Tom McGill,5,Brighton,Goalkeeper,right,185
+142,James Milner,5,Brighton,Central Midfield,right,175
+143,Kaoru Mitoma,5,Brighton,Left Winger,right,178
+144,Jakub Moder,5,Brighton,Central Midfield,right,191
+146,Jeremy Sarmiento Morante,5,Brighton,,,
+147,Kjell Scherpen,5,Brighton,,,
+148,Jason Steele,5,Brighton,Goalkeeper,right,188
+149,Deniz Undav,5,Brighton,,,
+150,Jan Paul van Hecke,5,Brighton,Centre-Back,right,189
+151,Joël Veltman,5,Brighton,Right-Back,right,184
+152,Bart Verbruggen,5,Brighton,Goalkeeper,right,194
+153,Adam Webster,5,Brighton,Centre-Back,right,190
+154,Danny Welbeck,5,Brighton,Centre-Forward,right,185
+155,Andi Zeqiri,5,Brighton,,,
+606,Igor Julio dos Santos de Paulo,5,Brighton,Centre-Back,left,188
+621,Jack Hinshelwood,5,Brighton,Defensive Midfield,right,182
+690,Carlos Baleba,5,Brighton,Defensive Midfield,left,179
+700,Anssumane Fati Vieira,5,Brighton,Left Winger,right,178
+156,Enock Agyei,6,Burnley,,,
+157,Ameen Al-Dakhil,6,Burnley,Centre-Back,right,187
+158,Samuel Bastien,6,Burnley,,,
+159,Manuel Benson Hedilazio,6,Burnley,,,
+160,Jordan Beyer,6,Burnley,Centre-Back,right,187
+161,Josh Brownhill,6,Burnley,Central Midfield,right,179
+162,Darko Churlinov,6,Burnley,,,
+163,Jack Cork,6,Burnley,Defensive Midfield,right,185
+164,Dara Costelloe,6,Burnley,,,
+165,Josh Cullen,6,Burnley,Central Midfield,right,175
+166,CJ Egan-Riley,6,Burnley,,,
+167,Hjalmar Ekdal,6,Burnley,Centre-Back,right,187
+168,Lyle Foster,6,Burnley,Centre-Forward,right,185
+169,Denis Franchi,6,Burnley,,,
+170,Jóhann Berg Gudmundsson,6,Burnley,Right Winger,left,186
+171,Luke McNally,6,Burnley,,,
+172,Arijanet Muric,6,Burnley,Goalkeeper,right,198
+173,Dara O'Shea,6,Burnley,Centre-Back,right,189
+174,Michael Obafemi,6,Burnley,,,
+175,Bailey Peacock-Farrell,6,Burnley,,,
+176,Connor Roberts,6,Burnley,,,
+177,Jay Rodriguez,6,Burnley,,,
+178,Charlie Taylor,6,Burnley,Left-Back,left,183
+179,Bobby Thomas,6,Burnley,,,
+180,Scott Twine,6,Burnley,,,
+181,Lawrence Vigouroux,6,Burnley,Goalkeeper,left,194
+182,Victor da Silva,6,Burnley,,,
+183,Wout Weghorst,6,Burnley,,,
+184,Anass Zaroury,6,Burnley,,,
+475,Sander Berge,6,Burnley,Defensive Midfield,right,195
+594,Zeki Amdouni,6,Burnley,Centre-Forward,both,185
+596,James Trafford,6,Burnley,Goalkeeper,right,192
+600,Nathan Redmond,6,Burnley,Right Winger,right,173
+605,Luca Koleosho,6,Burnley,Left Winger,right,175
+608,Jacob Bruun Larsen,6,Burnley,Left Winger,right,183
+622,Owen Dodgson,6,Burnley,,,
+660,Wilson Odobert,6,Burnley,Left Winger,right,182
+674,Hannes Delcroix,6,Burnley,Centre-Back,left,183
+675,Aaron Ramsey,6,Burnley,Attacking Midfield,right,181
+694,Han-Noah Massengo,6,Burnley,Defensive Midfield,right,178
+706,Mike Trésor,6,Burnley,Left Winger,right,172
+126,Moisés Caicedo Corozo,7,Chelsea,Defensive Midfield,right,178
+145,Robert Sánchez,7,Chelsea,Goalkeeper,right,197
+185,Ethan Ampadu,7,Chelsea,,,
+187,Kepa Arrizabalaga,7,Chelsea,,,
+188,Pierre-Emerick Aubameyang,7,Chelsea,,,
+189,César Azpilicueta,7,Chelsea,,,
+190,Abdul Rahman Baba,7,Chelsea,,,
+191,Benoît Badiashile,7,Chelsea,Centre-Back,left,194
+192,Marcus Bettinelli,7,Chelsea,Goalkeeper,right,193
+193,Armando Broja,7,Chelsea,Centre-Forward,right,191
+194,Trevoh Chalobah,7,Chelsea,Centre-Back,right,192
+195,Ben Chilwell,7,Chelsea,Left-Back,left,180
+196,Carney Chukwuemeka,7,Chelsea,Central Midfield,right,187
+197,Levi Colwill,7,Chelsea,Centre-Back,left,187
+198,Marc Cucurella Saseta,7,Chelsea,Left-Back,left,173
+199,Enzo Fernández,7,Chelsea,Central Midfield,right,178
+200,David Datro Fofana,7,Chelsea,Centre-Forward,right,180
+201,Wesley Fofana,7,Chelsea,Centre-Back,right,186
+202,Conor Gallagher,7,Chelsea,Central Midfield,right,182
+203,Malo Gusto,7,Chelsea,Right-Back,right,178
+206,Reece James,7,Chelsea,Right-Back,right,180
+207,Romelu Lukaku Bolingoli,7,Chelsea,,,
+208,Noni Madueke,7,Chelsea,Right Winger,left,182
+210,Mykhailo Mudryk,7,Chelsea,Left Winger,right,175
+211,Nicolas Jackson,7,Chelsea,Centre-Forward,right,188
+212,Christopher Nkunku,7,Chelsea,Attacking Midfield,right,177
+213,Christian Pulisic,7,Chelsea,,,
+214,Malang Sarr,7,Chelsea,Centre-Back,left,183
+215,Gabriel Słonina,7,Chelsea,,,
+216,Raheem Sterling,7,Chelsea,Left Winger,right,170
+217,Thiago Emiliano da Silva,7,Chelsea,Centre-Back,right,181
+218,Hakim Ziyech,7,Chelsea,,,
+362,Cole Palmer,7,Chelsea,Attacking Midfield,left,189
+589,Ângelo Gabriel Borges Damaceno,7,Chelsea,,,
+609,Ian Maatsen,7,Chelsea,,,
+611,Axel Disasi,7,Chelsea,Centre-Back,right,190
+613,Lesley Ugochukwu,7,Chelsea,Defensive Midfield,right,190
+623,Mason Burstow,7,Chelsea,,,
+659,Lucas Bergström,7,Chelsea,,,
+667,Roméo Lavia,7,Chelsea,Defensive Midfield,right,181
+671,Bashir Humphreys,7,Chelsea,,,
+677,Deivid Washington de Souza Eugênio,7,Chelsea,Centre-Forward,right,187
+680,Eddie Beach,7,Chelsea,,,
+681,Diego Manuel Jadon da Silva Moreira,7,Chelsea,,,
+687,Djordje Petrovic,7,Chelsea,Goalkeeper,right,194
+7,Rob Holding,8,Palace,Centre-Back,right,189
+219,Naouirou Ahamada,8,Palace,Central Midfield,right,183
+220,Joachim Andersen,8,Palace,Centre-Back,right,192
+221,Jordan Ayew,8,Palace,Centre-Forward,right,182
+222,Nathaniel Clyne,8,Palace,Right-Back,right,175
+223,Cheick Doucouré,8,Palace,Defensive Midfield,right,180
+224,Malcolm Ebiowei,8,Palace,,,
+225,Odsonne Edouard,8,Palace,Centre-Forward,right,187
+226,Eberechi Eze,8,Palace,Attacking Midfield,right,178
+227,Vicente Guaita,8,Palace,,,
+228,Marc Guéhi,8,Palace,Centre-Back,right,182
+229,Will Hughes,8,Palace,Central Midfield,left,185
+230,Sam Johnstone,8,Palace,Goalkeeper,right,193
+231,Jefferson Lerma Solís,8,Palace,Defensive Midfield,right,179
+232,Jean-Philippe Mateta,8,Palace,Centre-Forward,right,192
+233,Remi Matthews,8,Palace,Goalkeeper,right,192
+234,Tyrick Mitchell,8,Palace,Left-Back,left,175
+235,Jake O'Brien,8,Palace,,,
+236,Michael Olise,8,Palace,Right Winger,left,184
+237,Luke Plange,8,Palace,Centre-Forward,right,178
+238,Chris Richards,8,Palace,Centre-Back,right,188
+239,Jairo Riedewald,8,Palace,Defensive Midfield,left,182
+240,Jeffrey Schlupp,8,Palace,Left Midfield,left,178
+241,James Tomkins,8,Palace,Centre-Back,right,192
+242,Joel Ward,8,Palace,Right-Back,right,186
+243,Joe Whitworth,8,Palace,Goalkeeper,right,179
+385,Dean Henderson,8,Palace,Goalkeeper,right,188
+615,Matheus França de Oliveira,8,Palace,,,
+657,Jesurun Rak-Sakyi,8,Palace,Right Winger,left,178
+658,John-Kymani Gordon,8,Palace,,,
+244,André Tavares Gomes,9,Everton,,,
+245,Jarrad Branthwaite,9,Everton,Centre-Back,left,195
+246,Dominic Calvert-Lewin,9,Everton,Centre-Forward,right,189
+247,Seamus Coleman,9,Everton,Right-Back,right,177
+248,Dele Alli,9,Everton,Attacking Midfield,right,188
+249,Abdoulaye Doucouré,9,Everton,Central Midfield,right,183
+250,James Garner,9,Everton,Defensive Midfield,right,182
+251,Jean-Philippe Gbamin,9,Everton,,,
+252,Ben Godfrey,9,Everton,Centre-Back,right,184
+253,Demarai Gray,9,Everton,,,
+254,Idrissa Gueye,9,Everton,Central Midfield,right,174
+255,Mason Holgate,9,Everton,Centre-Back,right,187
+257,Michael Keane,9,Everton,Centre-Back,right,188
+259,Dwight McNeil,9,Everton,Left Winger,left,183
+260,Vitalii Mykolenko,9,Everton,Left-Back,left,180
+261,Amadou Onana,9,Everton,Defensive Midfield,right,195
+262,Nathan Patterson,9,Everton,Right-Back,right,189
+263,Jordan Pickford,9,Everton,Goalkeeper,left,185
+264,Ellis Simms,9,Everton,,,
+265,James Tarkowski,9,Everton,Centre-Back,right,185
+266,João Neves Virgínia,9,Everton,,,
+579,Andy Lonergan,9,Everton,Goalkeeper,left,193
+588,Ashley Young,9,Everton,Left-Back,both,175
+601,Arnaut Danjuma Groeneveld,9,Everton,Left Winger,right,178
+624,Lewis Dobbin,9,Everton,Left Winger,,175
+645,Youssef Ramalho Chermiti,9,Everton,,,
+649,Thomas Cannon,9,Everton,,,
+650,Tyler Onyango,9,Everton,Central Midfield,right,190
+661,Jack Harrison,9,Everton,Right Winger,left,175
+691,Norberto Bercique Gomes Betuncal,9,Everton,,,
+256,Alex Iwobi,10,Fulham,Attacking Midfield,right,183
+267,Andreas Hoelgebaum Pereira,10,Fulham,Attacking Midfield,right,178
+268,Tom Cairney,10,Fulham,Central Midfield,left,185
+269,Ivan Neves Abreu Cavaleiro,10,Fulham,,,
+270,Bobby De Cordova-Reid,10,Fulham,Attacking Midfield,right,170
+271,Issa Diop,10,Fulham,Centre-Back,right,194
+272,Tyrese Francois,10,Fulham,,,
+273,Anthony Knockaert,10,Fulham,,,
+274,Terence Kongolo,10,Fulham,,,
+275,Bernd Leno,10,Fulham,Goalkeeper,right,190
+276,Saša Lukić,10,Fulham,Central Midfield,right,182
+277,Kevin Mbabu,10,Fulham,,,
+278,Aleksandar Mitrović,10,Fulham,,,
+279,Rodrigo Muniz Carvalho,10,Fulham,Centre-Forward,right,186
+280,João Palhinha Gonçalves,10,Fulham,Defensive Midfield,right,190
+281,Tim Ream,10,Fulham,Centre-Back,left,186
+282,Harrison Reed,10,Fulham,Central Midfield,right,181
+283,Antonee Robinson,10,Fulham,Left-Back,left,183
+284,Marek Rodák,10,Fulham,Goalkeeper,right,194
+285,Kenny Tete,10,Fulham,Right-Back,right,180
+286,Tosin Adarabioyo,10,Fulham,Centre-Back,right,196
+287,Carlos Vinícius Alves Morais,10,Fulham,,,
+288,Harry Wilson,10,Fulham,Right Winger,left,173
+558,Raúl Jiménez,10,Fulham,Centre-Forward,right,187
+591,Willian Borges da Silva,10,Fulham,Left Winger,right,175
+610,Calvin Bassey,10,Fulham,Centre-Back,left,185
+625,Luc De Fougerolles,10,Fulham,,,
+651,Jay Stansfield,10,Fulham,,,
+652,Matthew Dibley-Dias,10,Fulham,,,
+662,Adama Traoré,10,Fulham,Right Winger,right,178
+683,Luke Harris,10,Fulham,,,
+688,Timothy Castagne,10,Fulham,Right-Back,right,185
+692,Steven Benda,10,Fulham,Goalkeeper,right,192
+707,Fodé Ballo-Touré,10,Fulham,Left-Back,left,182
+289,Adrián San Miguel del Castillo,11,Liverpool,,,
+290,Trent Alexander-Arnold,11,Liverpool,Right-Back,right,180
+291,Alisson Ramses Becker,11,Liverpool,Goalkeeper,right,193
+292,Stefan Bajcetic,11,Liverpool,Defensive Midfield,right,185
+293,Darwin Núñez Ribeiro,11,Liverpool,Centre-Forward,right,187
+294,Diogo Teixeira da Silva,11,Liverpool,Left Winger,right,178
+295,Harvey Elliott,11,Liverpool,Attacking Midfield,left,170
+296,Fabio Henrique Tavares,11,Liverpool,,,
+297,Cody Gakpo,11,Liverpool,Left Winger,right,193
+298,Joe Gomez,11,Liverpool,Centre-Back,right,188
+299,Jordan Henderson,11,Liverpool,,,
+300,Curtis Jones,11,Liverpool,Central Midfield,right,185
+301,Caoimhin Kelleher,11,Liverpool,Goalkeeper,right,188
+302,Ibrahima Konaté,11,Liverpool,Centre-Back,right,194
+303,Luis Díaz,11,Liverpool,Left Winger,right,180
+304,Alexis Mac Allister,11,Liverpool,Central Midfield,right,176
+305,Joel Matip,11,Liverpool,Centre-Back,right,195
+306,Nathaniel Phillips,11,Liverpool,Centre-Back,right,195
+307,Andrew Robertson,11,Liverpool,Left-Back,left,178
+308,Mohamed Salah,11,Liverpool,Right Winger,left,175
+309,Dominik Szoboszlai,11,Liverpool,Central Midfield,right,187
+310,Thiago Alcántara do Nascimento,11,Liverpool,,,
+311,Konstantinos Tsimikas,11,Liverpool,Left-Back,left,179
+312,Sepp van den Berg,11,Liverpool,,,
+313,Virgil van Dijk,11,Liverpool,Centre-Back,right,193
+626,Jarell Quansah,11,Liverpool,Centre-Back,right,190
+627,Bobby Clark,11,Liverpool,Central Midfield,right,178
+628,Ben Doak,11,Liverpool,Right Winger,right,173
+629,James McConnell,11,Liverpool,,,
+668,Wataru Endo,11,Liverpool,Defensive Midfield,right,178
+708,Ryan Gravenberch,11,Liverpool,Central Midfield,right,190
+21,Albert Sambi Lokonga,12,Luton,Central Midfield,right,183
+52,Marvelous Nakamba,12,Luton,Defensive Midfield,left,177
+314,Elijah Adebayo,12,Luton,Centre-Forward,,193
+315,Mads Juel Andersen,12,Luton,Centre-Back,right,194
+316,Amari'i Bell,12,Luton,Left-Back,left,180
+317,Luke Berry,12,Luton,Central Midfield,right,177
+318,Reece Burke,12,Luton,Centre-Back,right,189
+319,Allan Campbell,12,Luton,,,
+320,Jordan Clark,12,Luton,Central Midfield,right,183
+321,Alfie Doughty,12,Luton,Left Midfield,left,183
+322,Luke Freeman,12,Luton,,,
+323,Matt Macey,12,Luton,,,
+324,John McAtee,12,Luton,,,
+325,Carlos Mendes Gomes,12,Luton,,,
+326,Carlton Morris,12,Luton,Centre-Forward,right,185
+327,Admiral Muskwe,12,Luton,,,
+328,Chiedozie Ogbene,12,Luton,Right Winger,right,181
+329,Fred Onyedinma,12,Luton,Attacking Midfield,right,185
+330,Gabriel Osho,12,Luton,Centre-Back,right,185
+331,Aribim Pepple,12,Luton,,,
+332,Dion Pereira,12,Luton,,,
+333,Dan Potts,12,Luton,Left-Back,left,173
+334,Glen Rea,12,Luton,,,
+335,James Shea,12,Luton,Goalkeeper,,
+336,Joe Taylor,12,Luton,,,
+337,Elliot Thorpe,12,Luton,Central Midfield,right,176
+338,Jack Walton,12,Luton,,,
+339,Louie Watson,12,Luton,,,
+340,Cauley Woodrow,12,Luton,Centre-Forward,right,184
+393,Teden Mengi,12,Luton,Centre-Back,right,186
+553,Ryan Giles,12,Luton,,,
+575,Tom Lockyer,12,Luton,Centre-Back,right,185
+582,Pelly Ruddock Mpanzu,12,Luton,Defensive Midfield,right,175
+586,Tahith Chong,12,Luton,Right Winger,left,185
+602,Issa Kaboré,12,Luton,Right-Back,right,180
+614,Thomas Kaminski,12,Luton,Goalkeeper,,190
+630,Ross Barkley,12,Luton,Central Midfield,right,189
+631,Jacob Brown,12,Luton,Centre-Forward,right,178
+648,Aidan Francis-Clarke,12,Luton,,,
+665,Tim Krul,12,Luton,Goalkeeper,left,193
+682,Joseph Johnson,12,Luton,,,
+341,Manuel Akanji,13,City,Centre-Back,right,188
+342,Nathan Aké,13,City,Centre-Back,left,180
+343,Julián Álvarez,13,City,Second Striker,right,170
+344,Bernardo Veiga de Carvalho e Silva,13,City,Attacking Midfield,left,173
+345,Oscar Bobb,13,City,Right Winger,left,175
+346,João Cancelo,13,City,,,
+347,Scott Carson,13,City,Goalkeeper,right,188
+348,Shea Charles,13,City,,,
+349,Kevin De Bruyne,13,City,Attacking Midfield,right,181
+350,Rúben Gato Alves Dias,13,City,Centre-Back,right,187
+352,Ederson Santana de Moraes,13,City,Goalkeeper,left,188
+353,Phil Foden,13,City,Right Winger,left,171
+354,Jack Grealish,13,City,Left Winger,right,180
+355,Erling Haaland,13,City,Centre-Forward,left,195
+356,Mateo Kovačić,13,City,Central Midfield,right,177
+357,Aymeric Laporte,13,City,,,
+358,Rico Lewis,13,City,Right-Back,right,169
+359,Riyad Mahrez,13,City,,,
+361,Stefan Ortega Moreno,13,City,Goalkeeper,right,185
+363,Máximo Perrone,13,City,,,
+364,Kalvin Phillips,13,City,Defensive Midfield,right,179
+365,Rodrigo Hernandez,13,City,Defensive Midfield,right,191
+366,Sergio Gómez,13,City,Left-Back,left,171
+367,Zack Steffen,13,City,,,
+368,John Stones,13,City,Centre-Back,right,188
+369,Kyle Walker,13,City,Right-Back,right,178
+566,Matheus Luiz Nunes,13,City,Central Midfield,right,183
+616,Joško Gvardiol,13,City,Centre-Back,left,185
+678,Jérémy Doku,13,City,Left Winger,right,173
+209,Mason Mount,14,Man Utd,Attacking Midfield,right,181
+370,Alex Telles,14,Man Utd,,,
+371,Amad Diallo,14,Man Utd,Right Winger,left,173
+372,Antony Matheus dos Santos,14,Man Utd,Right Winger,left,172
+373,Bruno Borges Fernandes,14,Man Utd,Attacking Midfield,right,179
+374,Brandon Williams,14,Man Utd,,,
+375,Eric Bailly,14,Man Utd,,,
+376,Carlos Henrique Casimiro,14,Man Utd,Defensive Midfield,right,185
+377,Diogo Dalot Teixeira,14,Man Utd,Right-Back,right,183
+379,Christian Eriksen,14,Man Utd,Central Midfield,right,182
+380,Álvaro Fernández Carreras,14,Man Utd,,,
+381,Frederico Rodrigues de Paula Santos,14,Man Utd,,,
+382,Alejandro Garnacho,14,Man Utd,Left Winger,right,180
+383,Hannibal Mejbri,14,Man Utd,,,
+384,Tom Heaton,14,Man Utd,Goalkeeper,right,188
+386,Victor Lindelöf,14,Man Utd,Centre-Back,right,187
+387,Harry Maguire,14,Man Utd,Centre-Back,right,194
+388,Kobbie Mainoo,14,Man Utd,Central Midfield,right,175
+389,Tyrell Malacia,14,Man Utd,Left-Back,left,169
+390,Anthony Martial,14,Man Utd,Centre-Forward,right,181
+391,Lisandro Martínez,14,Man Utd,Centre-Back,left,175
+392,Scott McTominay,14,Man Utd,Defensive Midfield,right,191
+394,Facundo Pellistri Rebollo,14,Man Utd,,,
+395,Raphaël Varane,14,Man Utd,Centre-Back,right,191
+396,Marcus Rashford,14,Man Utd,Left Winger,right,185
+397,Jadon Sancho,14,Man Utd,,,
+398,Luke Shaw,14,Man Utd,Left-Back,left,178
+399,Shola Shoretire,14,Man Utd,Attacking Midfield,right,171
+400,Donny van de Beek,14,Man Utd,,,
+401,Aaron Wan-Bissaka,14,Man Utd,Right-Back,right,183
+508,Sergio Reguilón,14,Man Utd,Left-Back,left,178
+597,André Onana,14,Man Utd,Goalkeeper,right,190
+617,Rasmus Højlund,14,Man Utd,Centre-Forward,left,191
+632,Omari Forson,14,Man Utd,,,
+669,Radek Vítek,14,Man Utd,,,
+685,Daniel Gore,14,Man Utd,,,
+695,Altay Bayindir,14,Man Utd,,,
+703,Jonny Evans,14,Man Utd,Centre-Back,both,188
+709,Sofyan Amrabat,14,Man Utd,Defensive Midfield,right,185
+204,Lewis Hall,15,Newcastle,Left-Back,left,179
+402,Miguel Almirón Rejala,15,Newcastle,Right Winger,left,174
+403,Elliot Anderson,15,Newcastle,Attacking Midfield,right,179
+404,Harrison Ashby,15,Newcastle,,,
+405,Sven Botman,15,Newcastle,Centre-Back,left,195
+406,Bruno Guimarães Rodriguez Moura,15,Newcastle,Defensive Midfield,right,182
+407,Dan Burn,15,Newcastle,Left-Back,left,201
+408,Karl Darlow,15,Newcastle,,,
+409,Martin Dubravka,15,Newcastle,Goalkeeper,right,191
+410,Ryan Fraser,15,Newcastle,,,
+411,Mark Gillespie,15,Newcastle,Goalkeeper,right,191
+412,Anthony Gordon,15,Newcastle,Left Winger,right,182
+413,Isaac Hayden,15,Newcastle,,,
+414,Jeff Hendrick,15,Newcastle,,,
+415,Alexander Isak,15,Newcastle,Centre-Forward,right,192
+416,Joelinton Cássio Apolinário de Lira,15,Newcastle,Central Midfield,right,186
+417,Emil Krafth,15,Newcastle,Right-Back,right,184
+418,Garang Kuol,15,Newcastle,,,
+419,Jamaal Lascelles,15,Newcastle,Centre-Back,right,188
+420,Jamal Lewis,15,Newcastle,,,
+421,Sean Longstaff,15,Newcastle,Central Midfield,right,187
+422,Javier Manquillo Gaitán,15,Newcastle,,,
+423,Jacob Murphy,15,Newcastle,Right Winger,right,173
+424,Nick Pope,15,Newcastle,Goalkeeper,right,198
+425,Matt Ritchie,15,Newcastle,Right Midfield,left,173
+426,Allan Saint-Maximin,15,Newcastle,,,
+427,Fabian Schär,15,Newcastle,Centre-Back,right,186
+428,Matt Targett,15,Newcastle,Left-Back,left,183
+429,Sandro Tonali,15,Newcastle,Defensive Midfield,right,181
+430,Kieran Trippier,15,Newcastle,Right-Back,right,173
+431,Kell Watts,15,Newcastle,,,
+432,Joe Willock,15,Newcastle,Central Midfield,right,186
+433,Callum Wilson,15,Newcastle,Centre-Forward,right,180
+580,Loris Karius,15,Newcastle,Goalkeeper,right,191
+581,Paul Dummett,15,Newcastle,Centre-Back,left,183
+603,Harvey Barnes,15,Newcastle,Left Winger,right,182
+633,Tino Livramento,15,Newcastle,Right-Back,right,182
+634,Alex Murphy,15,Newcastle,,,
+635,Lewis Miley,15,Newcastle,Central Midfield,right,189
+23,Nuno Varela Tavares,16,Forest,,,
+28,Matt Turner,16,Forest,Goalkeeper,right,191
+186,Andrey Nascimento dos Santos,16,Forest,,,
+205,Callum Hudson-Odoi,16,Forest,Left Winger,right,178
+378,Anthony Elanga,16,Forest,Left Winger,right,178
+434,Brandon Aguilera Zamora,16,Forest,,,
+435,Harry Arter,16,Forest,Central Midfield,left,177
+436,Serge Aurier,16,Forest,,,
+437,Taiwo Awoniyi,16,Forest,Centre-Forward,right,183
+438,Giulian Biancone,16,Forest,,,
+439,Willy Boly,16,Forest,Centre-Back,right,195
+440,Josh Bowler,16,Forest,,,
+441,Steve Cook,16,Forest,,,
+442,Danilo dos Santos de Oliveira,16,Forest,,,
+443,Emmanuel Dennis,16,Forest,,,
+444,Mohamed Dräger,16,Forest,,,
+445,Felipe Augusto de Almeida Monteiro,16,Forest,,,
+446,Remo Freuler,16,Forest,,,
+447,Morgan Gibbs-White,16,Forest,Attacking Midfield,right,178
+448,Wayne Hennessey,16,Forest,Goalkeeper,right,198
+449,Ethan Horvath,16,Forest,,,
+451,Cheikhou Kouyaté,16,Forest,Defensive Midfield,right,189
+452,Richie Laryea,16,Forest,,,
+453,Orel Mangala,16,Forest,,,
+454,Loïc Mbe Soh,16,Forest,,,
+455,Scott McKenna,16,Forest,,,
+456,Alex Mighten,16,Forest,,,
+457,Moussa Niakhaté,16,Forest,Centre-Back,left,190
+458,Lewis O'Brien,16,Forest,,,
+459,Braian Ojeda Rodríguez,16,Forest,,,
+460,Jonathan Panzo,16,Forest,,,
+461,Omar Richards,16,Forest,,,
+462,Gustavo Henrique Furtado Scarpa,16,Forest,,,
+463,Jonjo Shelvey,16,Forest,,,
+464,Sam Surridge,16,Forest,,,
+465,Harry Toffolo,16,Forest,Left-Back,left,183
+466,Hwang Ui-jo,16,Forest,,,
+467,Neco Williams,16,Forest,Right-Back,right,183
+468,Chris Wood,16,Forest,Centre-Forward,right,191
+469,Joe Worrall,16,Forest,,,
+470,Ryan Yates,16,Forest,Central Midfield,right,190
+604,Olu Aina,16,Forest,,,
+636,George Shelvey,16,Forest,,,
+637,Josh Powell,16,Forest,,,
+679,Gonzalo Montiel,16,Forest,Right-Back,right,175
+696,Murillo Santiago Costa dos Santos,16,Forest,,,
+710,Odysseas Vlachodimos,16,Forest,Goalkeeper,right,191
+711,Andrew Omobamidele,16,Forest,Centre-Back,right,188
+712,Nicolás Domínguez,16,Forest,Central Midfield,right,179
+713,Ibrahim Sangaré,16,Forest,Defensive Midfield,right,191
+714,Divock Origi,16,Forest,Centre-Forward,right,189
+27,Auston Trusty,17,Sheffield,Centre-Back,left,190
+33,Cameron Archer,17,Sheffield,Centre-Forward,right,175
+360,James McAtee,17,Sheffield,Central Midfield,left,180
+471,Anel Ahmedhodžić,17,Sheffield,,,
+472,Jordan Amissah,17,Sheffield,Goalkeeper,right,198
+473,George Baldock,17,Sheffield,Right-Back,right,178
+474,Chris Basham,17,Sheffield,Centre-Back,right,190
+476,Jayden Bogle,17,Sheffield,Right-Back,right,178
+477,Rhian Brewster,17,Sheffield,Centre-Forward,right,180
+478,Ismaila Coulibaly,17,Sheffield,,,
+479,Adam Davies,17,Sheffield,Goalkeeper,right,185
+480,John Egan,17,Sheffield,Centre-Back,right,185
+481,John Fleck,17,Sheffield,,,
+482,Wes Foderingham,17,Sheffield,Goalkeeper,left,185
+483,Daniel Jebbison,17,Sheffield,Centre-Forward,right,190
+484,Max Lowe,17,Sheffield,Left-Back,left,175
+485,Oliver McBurnie,17,Sheffield,,,
+486,Iliman Ndiaye,17,Sheffield,,,
+487,Rhys Norrington-Davies,17,Sheffield,Left-Back,left,181
+488,Oliver Norwood,17,Sheffield,Central Midfield,right,175
+489,Ben Osborn,17,Sheffield,Central Midfield,left,176
+490,William Osula,17,Sheffield,Centre-Forward,right,186
+576,Jack Robinson,17,Sheffield,Centre-Back,left,180
+587,Anis Slimane,17,Sheffield,Central Midfield,both,188
+592,Yasser Larouci,17,Sheffield,Left-Back,left,176
+593,Bénie Traoré,17,Sheffield,,,
+638,Vini de Souza Costa,17,Sheffield,,,
+653,Femi Seriki,17,Sheffield,,,
+654,Louie Marsh,17,Sheffield,,,
+655,Andre Brooks,17,Sheffield,Central Midfield,left,180
+656,Antwoine Hackford,17,Sheffield,,,
+663,Gustavo Hamer,17,Sheffield,Defensive Midfield,right,169
+666,Tom Davies,17,Sheffield,Central Midfield,right,180
+693,Luke Thomas,18,Spurs,,,
+450,Brennan Johnson,18,Spurs,Right Winger,right,186
+491,Brandon Austin,18,Spurs,Goalkeeper,right,188
+492,Rodrigo Bentancur,18,Spurs,Central Midfield,right,187
+493,Yves Bissouma,18,Spurs,Central Midfield,right,182
+494,Bryan Gil Salvatierra,18,Spurs,Right Winger,left,175
+495,Ben Davies,18,Spurs,Left-Back,left,181
+496,Eric Dier,18,Spurs,,,
+497,Emerson Leite de Souza Junior,18,Spurs,,,
+498,Fraser Forster,18,Spurs,Goalkeeper,right,201
+499,Pierre-Emile Højbjerg,18,Spurs,Defensive Midfield,right,185
+500,Harry Kane,18,Spurs,,,
+501,Dejan Kulusevski,18,Spurs,Right Winger,left,186
+502,Hugo Lloris,18,Spurs,,,
+503,Giovani Lo Celso,18,Spurs,Attacking Midfield,left,177
+504,James Maddison,18,Spurs,Attacking Midfield,right,175
+505,Tanguy Ndombélé Alvaro,18,Spurs,,,
+506,Pedro Porro,18,Spurs,Right-Back,right,173
+507,Ivan Perišić,18,Spurs,,,
+509,Richarlison de Andrade,18,Spurs,Centre-Forward,right,184
+510,Joe Rodon,18,Spurs,,,
+511,Cristian Romero,18,Spurs,Centre-Back,right,185
+512,Davinson Sánchez,18,Spurs,,,
+513,Pape Matar Sarr,18,Spurs,Central Midfield,right,184
+514,Ryan Sessegnon,18,Spurs,Left Midfield,left,178
+515,Oliver Skipp,18,Spurs,Defensive Midfield,right,175
+516,Son Heung-min,18,Spurs,Left Winger,both,184
+517,Djed Spence,18,Spurs,,,
+518,Japhet Tanganga,18,Spurs,,,
+519,Destiny Udogie,18,Spurs,Left-Back,left,188
+520,Guglielmo Vicario,18,Spurs,Goalkeeper,right,194
+521,Alfie Whiteman,18,Spurs,Goalkeeper,right,188
+583,Manor Solomon,18,Spurs,Left Winger,right,170
+639,Micky van de Ven,18,Spurs,Centre-Back,left,193
+640,Dane Scarlett,18,Spurs,,,
+641,Alejo Véliz,18,Spurs,,,
+702,Ashley Phillips,18,Spurs,,,
+522,Nayef Aguerd,19,West Ham,Centre-Back,left,190
+523,Michail Antonio,19,West Ham,Centre-Forward,right,180
+524,Alphonse Areola,19,West Ham,Goalkeeper,right,195
+525,Saïd Benrahma,19,West Ham,,,
+526,Jarrod Bowen,19,West Ham,Right Winger,left,175
+527,Maxwel Cornet,19,West Ham,Left Winger,left,179
+528,Vladimír Coufal,19,West Ham,Right-Back,right,174
+529,Conor Coventry,19,West Ham,,,
+530,Aaron Cresswell,19,West Ham,Left-Back,left,170
+531,Flynn Downes,19,West Ham,,,
+532,Emerson Palmieri dos Santos,19,West Ham,Left-Back,left,176
+533,Lukasz Fabianski,19,West Ham,Goalkeeper,right,190
+534,Pablo Fornals Malla,19,West Ham,,,
+535,Danny Ings,19,West Ham,Centre-Forward,right,177
+536,Ben Johnson,19,West Ham,Right-Back,right,184
+537,Thilo Kehrer,19,West Ham,,,
+538,Divin Mubama,19,West Ham,Centre-Forward,left,183
+539,Lucas Tolentino Coelho de Lima,19,West Ham,,,
+541,Gianluca Scamacca,19,West Ham,,,
+542,Tomáš Souček,19,West Ham,Defensive Midfield,right,192
+543,Nikola Vlašić,19,West Ham,,,
+544,Kurt Zouma,19,West Ham,Centre-Back,right,190
+577,Angelo Ogbonna,19,West Ham,Centre-Back,left,191
+642,Edson Álvarez Velázquez,19,West Ham,Defensive Midfield,right,190
+647,Joseph Anang,19,West Ham,Goalkeeper,right,190
+664,James Ward-Prowse,19,West Ham,Central Midfield,right,177
+676,Konstantinos Mavropanos,19,West Ham,Centre-Back,right,194
+689,Mohammed Kudus,19,West Ham,Attacking Midfield,left,177
+351,Tommy Doyle,20,Wolves,Central Midfield,right,172
+545,Rayan Aït-Nouri,20,Wolves,Left-Back,left,180
+546,Daniel Bentley,20,Wolves,Goalkeeper,,193
+547,Bendegúz Bolla,20,Wolves,,,
+548,Hugo Bueno López,20,Wolves,Left-Back,left,180
+549,Francisco Jorge Tomás Oliveira,20,Wolves,,,
+550,Luke Cundle,20,Wolves,,,
+551,Craig Dawson,20,Wolves,Centre-Back,right,188
+552,Fábio Silva,20,Wolves,,,
+554,Gonçalo Manuel Ganchinho Guedes,20,Wolves,,,
+555,Joe Hodge,20,Wolves,,,
+556,Ki-Jana Hoever,20,Wolves,,,
+557,Hwang Hee-chan,20,Wolves,Centre-Forward,right,177
+559,João Victor Gomes da Silva,20,Wolves,Central Midfield,right,176
+560,Jonathan Castro Otto,20,Wolves,,,
+561,Bruno Cavaco Jordão,20,Wolves,,,
+562,Sasa Kalajdzic,20,Wolves,,,
+563,Max Kilman,20,Wolves,Centre-Back,left,194
+564,Tom King,20,Wolves,Goalkeeper,right,194
+565,Mario Lemina,20,Wolves,Defensive Midfield,right,184
+567,Pedro Lomba Neto,20,Wolves,Right Winger,left,172
+568,Daniel Castelo Podence,20,Wolves,,,
+569,José Malheiro de Sá,20,Wolves,Goalkeeper,right,192
+570,Pablo Sarabia,20,Wolves,Right Winger,left,174
+571,Matija Šarkić,20,Wolves,,,
+572,Nélson Cabral Semedo,20,Wolves,Right-Back,right,177
+573,Toti António Gomes,20,Wolves,Centre-Back,left,187
+574,Boubacar Traoré,20,Wolves,Defensive Midfield,right,183
+590,Matheus Santos Carneiro Da Cunha,20,Wolves,Centre-Forward,right,183
+598,Matt Doherty,20,Wolves,Right-Back,right,185
+697,Santiago Bueno,20,Wolves,Centre-Back,right,190
+698,Enso González,20,Wolves,Left Winger,left,169
+704,Nathan Fraser,20,Wolves,,,
+715,Jean-Ricner Bellegarde,20,Wolves,Central Midfield,right,172
